@@ -31,7 +31,7 @@ This project leverages **Unity Catalog** for data governance and utilizes a Serv
 * **Key Concepts:** Idempotency (`CREATE OR REPLACE`, `.mode("overwrite")`), Metadata extraction, Type casting, CTAS statements.
 
 ## 📊 Visualizing the Gold Tier
-*(![Gold Tier Daily Revenue](revenue_chart.png))*
+*(![Gold Tier Daily Revenue](revenue_chart.PNG))*
 > *A native Databricks visualization of the Gold tier `daily_sales_revenue` table, demonstrating the final metric ready for stakeholder consumption.*
 
 ## 📂 Repository Structure
